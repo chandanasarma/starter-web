@@ -12,4 +12,8 @@ Git is used to provide version controlling.
 
 ## Deployment
 
+Deploying
+
 ## How to Contribute
+
+Contribution
