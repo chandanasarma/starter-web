@@ -16,4 +16,4 @@ Deploying
 
 ## How to Contribute
 
-Contribution
+Contribution can be done.
